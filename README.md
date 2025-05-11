@@ -56,9 +56,3 @@ The final deliverable is a **3-page Power BI dashboard** designed for business d
 - 🧭 Regional performance varies; some regions process faster than others
 
 ---
-
-## 🖼️ Screenshots
-
-> *(Add images like these in a `/screenshots` folder and embed below)*
-
-# Insurance-claims-Dashbord
